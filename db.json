@@ -1,0 +1,85 @@
+{
+  "uploadVideos": [
+    {
+      "caption": "vaazha",
+      "imgUrl": "https://images.indianexpress.com/2024/08/Vaazha-movie-review.jpg?w=414",
+      "youTubeLink": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "id": "SEvPF6K"
+    },
+    {
+      "caption": "venom",
+      "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOmDwMYlY9I_3Ph5eM_Dl6cUmLy3rW_QgFKrVC8qJLqDc1rsT6",
+      "youTubeLink": "https://www.youtube.com/embed/2jG3Bl3EXJs",
+      "id": "gAafEGx"
+    },
+    {
+      "caption": "illuminati",
+      "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOmDwMYlY9I_3Ph5eM_Dl6cUmLy3rW_QgFKrVC8qJLqDc1rsT6",
+      "youTubeLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": "p5xM13A"
+    }
+  ],
+  "categories": [
+    {
+      "id": "0eff",
+      "categoryName": "trailers",
+      "allVideos": []
+    },
+    {
+      "categoryName": "songs",
+      "allVideos": [
+        {
+          "caption": "illuminati",
+          "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOmDwMYlY9I_3Ph5eM_Dl6cUmLy3rW_QgFKrVC8qJLqDc1rsT6",
+          "youTubeLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": "p5xM13A"
+        }
+      ],
+      "id": "ICvSCfc"
+    }
+  ],
+  "history": [
+    {
+      "id": "0356",
+      "caption": "1D",
+      "youTubeLink": "https://www.youtube.com/embed/2jG3Bl3EXJs",
+      "timeStamp": "11/4/2024, 6:18:00 PM GMT+5:30"
+    },
+    {
+      "id": "fe19",
+      "caption": "1D",
+      "youTubeLink": "https://www.youtube.com/embed/2jG3Bl3EXJs",
+      "timeStamp": "11/4/2024, 6:24:57 PM GMT+5:30"
+    },
+    {
+      "id": "47ef",
+      "caption": "1D",
+      "youTubeLink": "https://www.youtube.com/embed/2jG3Bl3EXJs",
+      "timeStamp": "11/4/2024, 7:18:36 PM GMT+5:30"
+    },
+    {
+      "id": "d548",
+      "caption": "1D",
+      "youTubeLink": "https://www.youtube.com/embed/2jG3Bl3EXJs",
+      "timeStamp": "11/4/2024, 7:18:45 PM GMT+5:30"
+    },
+    {
+      "caption": "illluminati",
+      "youTubeLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "11/6/2024, 6:21:04 PM GMT+5:30",
+      "id": "r4TiSUa"
+    },
+    {
+      "caption": "illluminati",
+      "youTubeLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "11/6/2024, 6:23:40 PM GMT+5:30",
+      "id": "ALh202p"
+    },
+    {
+      "caption": "illuminati",
+      "youTubeLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "11/7/2024, 9:18:56 AM GMT+5:30",
+      "id": "7Tqvsb5"
+    }
+  ]
+}
